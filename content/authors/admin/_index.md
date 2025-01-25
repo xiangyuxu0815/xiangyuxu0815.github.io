@@ -73,17 +73,29 @@ education:
     date_end: 2014-06-01
     summary: |
       Supervised by Prof Xiang Zhong.
-work:
-  - position: Senior Research Enginee
-    company_name: Innopeak Technology, Inc.
-    company_url: 'https://www.innopeaktech.com/'
+  work:
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
+    company_url: ''
     company_logo: ''
-    date_start: 2022-08-015
-    date_end: '2025-08-15'
-    summary: |
+    date_start: 2021-01-01
+    date_end: ''
+    summary: |2-
       Responsibilities include:
-      -Developed advanced algorithms and systems for AI wearable device (glasses) applications.
-      -Developed advanced algorithms and systems for XR (AR/VR/MR) applications.
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+# work:
+#   - position: Senior Research Engineer
+#     company_name: Innopeak Technology, Inc.
+#     company_url: 'https://www.innopeaktech.com/'
+#     company_logo: ''
+#     date_start: 2022-08-015
+#     date_end: ''
+#     summary: |2-
+#       Responsibilities include:
+#       -Developed advanced algorithms and systems for AI wearable device (glasses) applications.
+#       -Developed advanced algorithms and systems for XR (AR/VR/MR) applications.
 
 #   - position: 3D Computer Vision Research Intern
 #     company_name: Wormpex AI Research LLC.
