@@ -57,16 +57,16 @@ education:
     date_start: 2017-08-01
     date_end: 2022-08-01
     summary: |
-      Thesis on _Generalized dynamic 3d reconstruction_. Supervised by [Prof Enrique Dunn](https://enriquedunn.github.io/).
+      # Thesis on _Generalized dynamic 3d reconstruction_. Supervised by [Prof Enrique Dunn](https://enriquedunn.github.io/).
     button:
       text: 'Read Thesis'
-      url: 'https://www.proquest.com/openview/a52c1b5ba98353ad9c429f0b4c54c4a7'
+      # url: 'https://www.proquest.com/openview/a52c1b5ba98353ad9c429f0b4c54c4a7'
   - area: MSc Robotics
     institution: Stevens Institute of Technology
     date_start: 2017-08-01
     date_end: 2015-06-01
     summary: |
-      Supervised by [Prof Brendan Englot](https://www.stevens.edu/profile/benglot).
+      # Supervised by [Prof Brendan Englot](https://www.stevens.edu/profile/benglot).
   - area: BSc Mechanical Engineerin
     institution: Hunan University
     date_start: 2010-07-01
@@ -76,7 +76,7 @@ education:
 work:
   - position: Senior Research Enginee
     company_name: Innopeak Technology, Inc.
-    company_url: 'https://www.innopeaktech.com/'
+    # company_url: 'https://www.innopeaktech.com/'
     company_logo: ''
     date_start: 2022-08-015
     date_end: ''
@@ -111,7 +111,7 @@ work:
       - Solved the feature correspondence selection problem under strict conditions such as texture-less feature, low light, and day-night difference and evaluated the algorithms on Amazon Web Service.
   - position: Research Assistan
     company_name: The Robust Field Autonomy Lab
-    company_url: 'https://robustfieldautonomylab.github.io/index.html'
+    # company_url: 'https://robustfieldautonomylab.github.io/index.html'
     company_logo: ''
     date_start: 2016-05-01
     date_end: 2017-05-01
