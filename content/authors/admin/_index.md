@@ -73,18 +73,17 @@ education:
     date_end: 2014-06-01
     summary: |
       Supervised by Prof Xiang Zhong.
-
-# work:
-#   - position: Senior Research Enginee
-#     company_name: Innopeak Technology, Inc.
-#     company_url: 'https://www.innopeaktech.com/'
-#     company_logo: ''
-#     date_start: 2022-08-015
-#     date_end: ''
-#     summary: |
-#       Responsibilities include:
-#       -Developed advanced algorithms and systems for AI wearable device (glasses) applications
-#       -Developed advanced algorithms and systems for XR (AR/VR/MR) applications:
+work:
+  - position: Senior Research Enginee
+    company_name: Innopeak Technology, Inc.
+    company_url: 'https://www.innopeaktech.com/'
+    company_logo: ''
+    date_start: 2022-08-015
+    date_end: ''
+    summary: |
+      Responsibilities include:
+      -Developed advanced algorithms and systems for AI wearable device (glasses) applications.
+      -Developed advanced algorithms and systems for XR (AR/VR/MR) applications.
 #   - position: 3D Computer Vision Research Intern
 #     company_name: Wormpex AI Research LLC.
 #     company_url: ''
