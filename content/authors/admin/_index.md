@@ -84,9 +84,6 @@ work:
       Developed advanced algorithms and systems for AI wearable device (glasses) applications:
       - Diffusion-based image super-resolution and deblurring for enhanced visual quality.
       - Open-vocabulary 3D scene graph reconstruction to support localization and navigation.
-      Developed advanced algorithms and systems for XR (AR/VR/MR) applications:
-      - 3D/4D photography/videography for immersive content creation.
-      - 3D Reconstruction and Scene Understanding.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
