@@ -35,16 +35,16 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/Xiangyu43744339
-  # - icon: brands/instagram
-  #   url: https://www.instagram.com/
+  - icon: brands/instagram
+    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/ShawnXu10
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/xiangyu-xu-bb0a11113/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=Pt4q_QkAAAAJ&hl
-  - icon: academicons/orcid
-    url: https://orcid.org/my-orcid?orcid=0009-0008-5469-4972
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/my-orcid?orcid=0009-0008-5469-4972
 
 interests:
   - Artificial Intelligence
