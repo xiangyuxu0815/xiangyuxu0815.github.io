@@ -153,7 +153,7 @@ awards:
     url: 
     date: '2023-05-01'
     awarder: Stevens Institute of Technology
-    icon: coursera
+    # icon: coursera
     # summary: |
 ---
 
