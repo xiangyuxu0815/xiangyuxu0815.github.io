@@ -103,8 +103,6 @@ work:
     company_logo: ''
     date_start: 2020-05-01
     date_end: 2020-08-01
-    date_start: 2019-05-01
-    date_end: 2019-08-01
     summary: |
       Responsibilities include:
       - Worked on the problem of 3D map alignment under strict conditions such as noise, outliers, and large non-overlapping areas and tested the algorithms on the home robot Astro.
