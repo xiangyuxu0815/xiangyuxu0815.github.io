@@ -89,7 +89,7 @@ work:
       - 3D Reconstruction and Scene Understanding.
   - position: 3D Computer Vision Research Intern
     company_name: Wormpex AI Research LLC.
-    company_url: 'https://research.wormpex.com/'
+    company_url: ''
     company_logo: ''
     date_start: 2021-05-01
     date_end: 2021-08-01
