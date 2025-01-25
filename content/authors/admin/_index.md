@@ -159,4 +159,4 @@ awards:
 
 ## About Me
 
-Xiangyu Xu is a Senior Research Engineer at Innopeak Technology, Inc., where he focuses on research and development for AI glasses and XR(MR/AR/VR) related projects. His research interests lie in the areas of 2D/3D Computer Vision, Robotics, and Artificial Intelligence.
+Xiangyu Xu is a Senior Research Engineer at Innopeak Technology, Inc.（a.k.a OPPO US Research Center）, where he focuses on research and development for AI glasses and XR(MR/AR/VR) related projects. His research interests lie in the areas of 2D/3D Computer Vision, Robotics, and Artificial Intelligence.
