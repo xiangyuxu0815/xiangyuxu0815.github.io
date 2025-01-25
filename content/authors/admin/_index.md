@@ -87,7 +87,6 @@ work:
       Developed advanced algorithms and systems for XR (AR/VR/MR) applications:
       - 3D/4D photography/videography for immersive content creation.
       - 3D Reconstruction and Scene Understanding.
-  - position: 3D Computer Vision Research Intern
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
