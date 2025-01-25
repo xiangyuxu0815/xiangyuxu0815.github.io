@@ -84,6 +84,29 @@ work:
       Developed advanced algorithms and systems for AI wearable device (glasses) applications:
       - Diffusion-based image super-resolution and deblurring for enhanced visual quality.
       - Open-vocabulary 3D scene graph reconstruction to support localization and navigation.
+      Developed advanced algorithms and systems for XR (AR/VR/MR) applications:
+      - 3D/4D photography/videography for immersive content creation.
+      - 3D Reconstruction and Scene Understanding.
+  - position: 3D Computer Vision Research Intern
+    company_name: Amazon Lab126
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-05-01
+    date_end: 2020-08-01
+    summary: |
+      Responsibilities include:
+      - Worked on the problem of 3D map alignment under strict conditions such as noise, outliers, and large non-overlapping areas and tested the algorithms on the home robot Astro.
+      - Solved the feature correspondence selection problem under strict conditions such as texture-less feature, low light, and day-night difference and evaluated the algorithms on Amazon Web Service.
+  - position: Research Assistan
+    company_name: The Robust Field Autonomy Lab
+    company_url: 'https://robustfieldautonomylab.github.io/index.html'
+    company_logo: ''
+    date_start: 2016-05-01
+    date_end: 2017-05-01
+    summary: |
+      Responsibilities include:
+      - Designed algorithms, optimization methods, and control systems for robust and autonomous mobile robotics.
+      - Considered applications such as underwater surveillance, inspection, autonomous exploration, and path planning.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
