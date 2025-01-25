@@ -28,7 +28,7 @@ links:
 url_pdf: https://arxiv.org/pdf/2401.00871
 
 image:
-  caption: '(https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
 ---
