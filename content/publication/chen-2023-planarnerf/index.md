@@ -22,6 +22,8 @@ tags:
 - NeRF
 - 3D Plane Detection
 
+featured: true
+
 links:
 url_pdf: https://arxiv.org/pdf/2401.00871
 
