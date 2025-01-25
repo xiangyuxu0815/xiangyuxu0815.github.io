@@ -78,7 +78,7 @@ work:
     company_name: Innopeak Technology, Inc.
     company_url: 'https://www.innopeaktech.com/'
     company_logo: ''
-    date_start: 2022-08-015
+    date_start: 2022-08-15
     date_end: ''
     summary: |2-
       Developed advanced algorithms and systems for AI wearable device (glasses) applications:
