@@ -11,7 +11,7 @@ last_name: Xu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🏋️
 
 # Is this the primary user of the site?
 superuser: true
@@ -47,65 +47,78 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0009-0008-5469-4972
 
 interests:
+  - Computer Vision
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robotics
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Computer Vision
+    institution: Stevens Institute of Technology
+    date_start: 2017-08-01
+    date_end: 2022-08-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Generalized dynamic 3d reconstruction_. Supervised by [Prof Enrique Dunn](https://enriquedunn.github.io/).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://www.proquest.com/openview/a52c1b5ba98353ad9c429f0b4c54c4a7'
+  - area: MSc Robotics
+    institution: Stevens Institute of Technology
+    date_start: 2017-08-01
+    date_end: 2015-06-01
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Supervised by [Prof Brendan Englot](https://www.stevens.edu/profile/benglot).
+  - area: BSc Mechanical Engineerin
+    institution: Hunan University
+    date_start: 2010-07-01
+    date_end: 2014-06-01
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Supervised by Prof Xiang Zhong.
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Senior Research Enginee
+    company_name: Innopeak Technology, Inc.
+    company_url: 'https://www.innopeaktech.com/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-08-015
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      Developed advanced algorithms and systems for AI wearable device (glasses) applications:
+      - Diffusion-based image super-resolution and deblurring for enhanced visual quality.
+      - Open-vocabulary 3D scene graph reconstruction to support localization and navigation.
+      Developed advanced algorithms and systems for XR (AR/VR/MR) applications:
+      - 3D/4D photography/videography for immersive content creation.
+      - 3D Reconstruction and Scene Understanding.
+  - position: 3D Computer Vision Research Intern
+    company_name: Wormpex AI Research LLC.
+    company_url: 'http://research.wormpex.com/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-05-01
+    date_end: 2021-08-01
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Conducted cutting-edge research in learning-based feature matching and camera poses estimation problems.
+      - Coded the algorithm using the deep learning framework PyTorch and compared it with the state-of-the-art methods.
+  - position: Applied Scientist Intern (Astro home robot)
+    company_name: Amazon Lab126
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-05-01
+    date_end: 2020-08-01
+    date_start: 2019-05-01
+    date_end: 2019-08-01
+    summary: |
+      Responsibilities include:
+      - Worked on the problem of 3D map alignment under strict conditions such as noise, outliers, and large non-overlapping areas and tested the algorithms on the home robot Astro.
+      - Solved the feature correspondence selection problem under strict conditions such as texture-less feature, low light, and day-night difference and evaluated the algorithms on Amazon Web Service.
+  - position: Research Assistan
+    company_name: The Robust Field Autonomy Lab
+    company_url: 'https://robustfieldautonomylab.github.io/index.html'
+    company_logo: ''
+    date_start: 2016-05-01
+    date_end: 2017-05-01
+    summary: |
+      Responsibilities include:
+      - Designed algorithms, optimization methods, and control systems for robust and autonomous mobile robotics.
+      - Considered applications such as underwater surveillance, inspection, autonomous exploration, and path planning.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
