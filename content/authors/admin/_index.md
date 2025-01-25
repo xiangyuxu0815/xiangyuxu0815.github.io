@@ -152,7 +152,7 @@ awards:
   - title: Excellence in Graduate Research Award
     url: 
     date: '2023-05-01'
-    awarder: Coursera
+    awarder: Stevens Institute of Technology
     icon: coursera
     # summary: |
 ---
