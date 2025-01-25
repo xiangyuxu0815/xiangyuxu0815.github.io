@@ -25,8 +25,8 @@ tags:
 links:
 url_pdf: https://arxiv.org/pdf/2401.00871
 
-# image:
-#   caption: 'image.png'
-#   focal_point: ""
-#   preview_only: false
+image:
+  caption: 'Image credit: [**Unsplash**](https://drive.google.com/file/d/1OQ0_wwviFgfxApCeP8tertZjvPFv6SJb/view?usp=sharing)'
+  focal_point: ""
+  preview_only: false
 ---
