@@ -79,12 +79,12 @@ work:
     company_url: 'https://www.innopeaktech.com/'
     company_logo: ''
     date_start: 2022-08-015
-    date_end: ''
+    date_end: '2025-08-15'
     summary: |
       Responsibilities include:
       -Developed advanced algorithms and systems for AI wearable device (glasses) applications.
       -Developed advanced algorithms and systems for XR (AR/VR/MR) applications.
-      
+
 #   - position: 3D Computer Vision Research Intern
 #     company_name: Wormpex AI Research LLC.
 #     company_url: ''
