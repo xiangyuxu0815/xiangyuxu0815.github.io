@@ -26,7 +26,7 @@ links:
 url_pdf: https://arxiv.org/pdf/2401.00871
 
 image:
-  caption: 'Image credit: [**Unsplash**](image.png)'
+  caption: 'image.png'
   focal_point: ""
   preview_only: false
 ---
