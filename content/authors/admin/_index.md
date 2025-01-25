@@ -84,6 +84,9 @@ work:
       Responsibilities include:
       - Developed advanced algorithms and systems for AI wearable device (glasses) applications.
       - Developed advanced algorithms and systems for XR (AR/VR/MR) applications.
+      Responsibilities include:
+      - Developed advanced algorithms and systems for AI wearable device (glasses) applications.
+      - Developed advanced algorithms and systems for XR (AR/VR/MR) applications.
   - position: 3D Computer Vision Research Intern
     company_name: Amazon Lab126
     company_url: ''
