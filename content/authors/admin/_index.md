@@ -84,6 +84,7 @@ work:
       Responsibilities include:
       -Developed advanced algorithms and systems for AI wearable device (glasses) applications.
       -Developed advanced algorithms and systems for XR (AR/VR/MR) applications.
+      
 #   - position: 3D Computer Vision Research Intern
 #     company_name: Wormpex AI Research LLC.
 #     company_url: ''
