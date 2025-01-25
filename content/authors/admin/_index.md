@@ -74,47 +74,47 @@ education:
     summary: |
       Supervised by Prof Xiang Zhong.
 
-work:
-  - position: Senior Research Enginee
-    company_name: Innopeak Technology, Inc.
-    company_url: 'https://www.innopeaktech.com/'
-    company_logo: ''
-    date_start: 2022-08-015
-    date_end: ''
-    summary: |
-      Responsibilities include:
-      -Developed advanced algorithms and systems for AI wearable device (glasses) applications
-      -Developed advanced algorithms and systems for XR (AR/VR/MR) applications:
-  - position: 3D Computer Vision Research Intern
-    company_name: Wormpex AI Research LLC.
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-05-01
-    date_end: 2021-08-01
-    summary: |
-      Responsibilities include:
-      - Conducted cutting-edge research in learning-based feature matching and camera poses estimation problems.
-      - Coded the algorithm using the deep learning framework PyTorch and compared it with the state-of-the-art methods.
-  - position: Applied Scientist Intern (Astro home robot)
-    company_name: Amazon Lab126
-    company_url: ''
-    company_logo: ''
-    date_start: 2020-05-01
-    date_end: 2020-08-01
-    summary: |
-      Responsibilities include:
-      - Worked on the problem of 3D map alignment under strict conditions such as noise, outliers, and large non-overlapping areas and tested the algorithms on the home robot Astro.
-      - Solved the feature correspondence selection problem under strict conditions such as texture-less feature, low light, and day-night difference and evaluated the algorithms on Amazon Web Service.
-  - position: Research Assistant
-    company_name: The Robust Field Autonomy Lab
-    company_url: 'https://robustfieldautonomylab.github.io/index.html'
-    company_logo: ''
-    date_start: 2016-05-01
-    date_end: 2017-05-01
-    summary: |
-      Responsibilities include:
-      - Designed algorithms, optimization methods, and control systems for robust and autonomous mobile robotics.
-      - Considered applications such as underwater surveillance, inspection, autonomous exploration, and path planning.
+# work:
+#   - position: Senior Research Enginee
+#     company_name: Innopeak Technology, Inc.
+#     company_url: 'https://www.innopeaktech.com/'
+#     company_logo: ''
+#     date_start: 2022-08-015
+#     date_end: ''
+#     summary: |
+#       Responsibilities include:
+#       -Developed advanced algorithms and systems for AI wearable device (glasses) applications
+#       -Developed advanced algorithms and systems for XR (AR/VR/MR) applications:
+#   - position: 3D Computer Vision Research Intern
+#     company_name: Wormpex AI Research LLC.
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2021-05-01
+#     date_end: 2021-08-01
+#     summary: |
+#       Responsibilities include:
+#       - Conducted cutting-edge research in learning-based feature matching and camera poses estimation problems.
+#       - Coded the algorithm using the deep learning framework PyTorch and compared it with the state-of-the-art methods.
+#   - position: Applied Scientist Intern (Astro home robot)
+#     company_name: Amazon Lab126
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2020-05-01
+#     date_end: 2020-08-01
+#     summary: |
+#       Responsibilities include:
+#       - Worked on the problem of 3D map alignment under strict conditions such as noise, outliers, and large non-overlapping areas and tested the algorithms on the home robot Astro.
+#       - Solved the feature correspondence selection problem under strict conditions such as texture-less feature, low light, and day-night difference and evaluated the algorithms on Amazon Web Service.
+#   - position: Research Assistant
+#     company_name: The Robust Field Autonomy Lab
+#     company_url: 'https://robustfieldautonomylab.github.io/index.html'
+#     company_logo: ''
+#     date_start: 2016-05-01
+#     date_end: 2017-05-01
+#     summary: |
+#       Responsibilities include:
+#       - Designed algorithms, optimization methods, and control systems for robust and autonomous mobile robotics.
+#       - Considered applications such as underwater surveillance, inspection, autonomous exploration, and path planning.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
