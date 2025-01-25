@@ -73,6 +73,7 @@ education:
     date_end: 2014-06-01
     summary: |
       Supervised by Prof Xiang Zhong.
+      
 work:
   - position: Senior Research Enginee
     company_name: Innopeak Technology, Inc.
