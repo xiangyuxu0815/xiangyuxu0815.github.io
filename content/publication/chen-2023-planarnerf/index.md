@@ -5,7 +5,7 @@ authors:
 - Qingan Yan
 - Huangying Zhan
 - Changjiang Cai
-- **Xiangyu**
+- Xiangyu
 - Yuzhong Huang
 - Weihan Wang
 - Ziyue Feng

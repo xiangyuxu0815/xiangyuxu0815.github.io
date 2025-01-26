@@ -4,7 +4,7 @@ authors:
 - Liyan Chen
 - Huangying Zhan
 - Kevin Chen
-- **Xiangyu Xu**
+- Xiangyu Xu
 - Qingan Yan
 - Changjiang Cai
 - Yi Xu
