@@ -94,7 +94,7 @@ work:
       Responsibilities include:
       - Worked on the problem of 3D map alignment under strict conditions such as noise, outliers, and large non-overlapping areas and tested the algorithms on the home robot Astro.
       - Solved the feature correspondence selection problem under strict conditions such as texture-less feature, low light, and day-night difference and evaluated the algorithms on Amazon Web Service.
-  - position: Research Assistan
+  - position: Research Assistant
     company_name: The Robust Field Autonomy Lab
     company_url: 'https://robustfieldautonomylab.github.io/index.html'
     company_logo: ''
