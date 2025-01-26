@@ -7,7 +7,7 @@ date: '2019-01-01'
 publishDate: '2025-01-25T22:12:06.283247Z'
 publication_types:
 - paper-conference
-publication: '*Proceedings of the IEEE/CVF International Conference on Computer Vision*'
+publication: '*Proceedings of the IEEE/CVF International Conference on Computer Vision for oral presentation. Acceptance rate 4.3%.*'
 
 abstract: We present a general paradigm for dynamic 3D reconstruction from multiple independent and uncontrolled image sources having arbitrary temporal sampling density and distribution. Our graph-theoretic formulation models the spatio-temporal relationships among our observations in terms of the joint estimation of their 3D geometry and its discrete Laplace operator. Towards this end, we define a tri-convex optimization framework that leverages the geometric properties and dependencies found among a Euclidean shape-space and the discrete Laplace operator describing its local and global topology. We present a reconstructability analysis, experiments on motion capture data and multi-view image datasets, as well as explore applications to geometry-based event segmentation and data association.
 
