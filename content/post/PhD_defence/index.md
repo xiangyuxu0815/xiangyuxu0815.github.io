@@ -1,0 +1,5 @@
+---
+title: Successfully Defended My Ph.D. Dissertation.
+summary: I am thrilled to announce that I have successfully defended my Ph.D. dissertation, titled “GENERALIZED DYNAMIC 3D RECONSTRUCTION", at Stevens Institute of Technology. I am deeply grateful to my advisor, Professor Enrique Dunn, for his invaluable guidance, mentorship, and encouragement throughout this journey. I would also like to extend my heartfelt thanks to my dissertation committee members, Dr. Philippos Mordohai, Dr. Damiano Zanotto, and Dr. Yaser Sheikh, for their insightful feedback, support, and thought-provoking discussions that helped shape this research. This milestone would not have been possible without their expertise and dedication, and I am incredibly thankful for their contributions to my academic growth.
+date: 2022-07-15
+---
