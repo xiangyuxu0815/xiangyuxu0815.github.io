@@ -16,5 +16,5 @@ tags:
 - 3D Convolutional Network
 
 links:
-url_pdf: file:///Users/xiangyuxu/Downloads/out.pdf
+url_pdf: https://www.proquest.com/openview/a52c1b5ba98353ad9c429f0b4c54c4a7/1?pq-origsite=gscholar&cbl=18750&diss=y
 ---
