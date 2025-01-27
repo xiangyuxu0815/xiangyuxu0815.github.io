@@ -1,13 +1,14 @@
 ---
 title: Autonomous Exploration and mapping of Complex 3D Environment
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+date: 2017-05-26
+external_link: https://wiki.ros.org/turtlebot_exploration_3d
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - ROS
+  - Robotics
+  - Turtlebot
+  - Activate Mapping
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+I published an open-source package on the ROS Wiki designed for exploring complex three-dimensional environments using a ground robot equipped with a ranging sensor. This package enables efficient navigation and mapping in challenging environments.
 
 <!--more-->
