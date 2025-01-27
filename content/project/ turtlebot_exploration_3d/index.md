@@ -9,6 +9,6 @@ tags:
   - Activate Mapping
 ---
 
-I published an open-source package on the ROS Wiki designed for exploring complex three-dimensional environments using a ground robot equipped with a ranging sensor. This package enables efficient navigation and mapping in challenging environments.
+We published an open-source package on the ROS Wiki designed for exploring complex three-dimensional environments using a ground robot equipped with a ranging sensor. This package enables efficient navigation and mapping in challenging environments.
 
 <!--more-->

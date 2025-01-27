@@ -15,6 +15,7 @@ tags:
   - 3D Dynamic Reconstruction
   - Non-rigid Structure from Montion
   - Dictionary Learning
+  - Laplace Operator
 
 featured: true
 
