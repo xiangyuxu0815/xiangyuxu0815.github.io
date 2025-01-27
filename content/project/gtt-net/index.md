@@ -3,7 +3,7 @@ title: Deep learning-based multi-view Dynamic 3D Reconstruction
 date: 2022-01-24
 external_link: https://github.com/ShawnXu10/GTT-Net/commits/master/
 tags:
-  - 3D Dynamic Reconstruction
+  - Dynamic 3D Reconstruction
   - Non-rigid Structure from Montion
   - 3D Convolutional Network
 ---
