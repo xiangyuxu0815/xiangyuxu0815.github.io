@@ -47,8 +47,7 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0009-0008-5469-4972
 
 interests:
-  - 3D Computer Vision
-  -- (3D/4D Reconstruction, NeRF, Gaussian Splatting, Visual Localization)
+  - 3D Computer Vision(3D/4D Reconstruction, NeRF, Gaussian Splatting, Visual Localization)
   - 2D Computer Vision(Super-Resolution, Feature detection, extraction and matching)
   - Artificial Intelligence(Stable Diffusion, VLM)
   - Robotics(3D Scene Graph, Active Reconstruction, SLAM)
@@ -108,7 +107,7 @@ work:
     date_end: 2020-08-01
     summary: |
       Responsibilities include:
-      - Worked on the problem of 3D map alignment under strict conditions such as noise, outliers, and large non-overlapping areas and tested the algorithms on the home robot Astro.
+      - Solved the feature correspondence selection problem under strict conditions such as texture-less feature, low light, and day-night difference and evaluated the algorithms on Amazon Web Service.
   - position: Applied Scientist Intern
     company_name: Amazon Lab126
     company_url: ''
@@ -117,7 +116,7 @@ work:
     date_end: 2019-08-01
     summary: |
       Responsibilities include:
-      - Solved the feature correspondence selection problem under strict conditions such as texture-less feature, low light, and day-night difference and evaluated the algorithms on Amazon Web Service.
+      - Worked on the problem of 3D map alignment under strict conditions such as noise, outliers, and large non-overlapping areas and tested the algorithms on the home robot Astro.
   - position: Research Assistant
     company_name: The Robust Field Autonomy Lab
     company_url: 'https://robustfieldautonomylab.github.io/index.html'
