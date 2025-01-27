@@ -47,10 +47,22 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0009-0008-5469-4972
 
 interests:
-  - 3D Computer Vision(3D/4D Reconstruction, NeRF, Gaussian Splatting, Visual Localization)
-  - 2D Computer Vision(Super-Resolution, Feature detection, extraction and matching)
-  - Artificial Intelligence(Stable Diffusion, VLM)
-  - Robotics(3D Scene Graph, Active Reconstruction, SLAM)
+  - 3D Computer Vision
+    - 3D/4D Reconstruction
+    - NeRF
+    - Gaussian Splatting
+    - Visual Localization
+  - 2D Computer Vision
+    - Super-Resolution
+    - Feature detection
+    - extraction and matching
+  - Artificial Intelligence
+    - Stable Diffusion
+    - VLM
+  - Robotics
+    - 3D Scene Graph
+    - Active Reconstruction
+    - SLAM
 
 education:
   - area: PhD Computer Vision
