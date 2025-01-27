@@ -129,7 +129,7 @@ work:
       - Considered applications such as underwater surveillance, inspection, autonomous exploration, and path planning.
 # # Skills
 # # Add your own SVG icons to `assets/media/icons/`
-# skills:
+skills:
   - name: Technical Skills
     items:
       - name: Python
