@@ -140,6 +140,14 @@ skills:
         description: ''
         percent: 100
         icon: code-bracket
+      - name: MATLAB
+        description: ''
+        percent: 100
+        icon: code-bracket
+      - name: LATEX
+        description: ''
+        percent: 100
+        icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
