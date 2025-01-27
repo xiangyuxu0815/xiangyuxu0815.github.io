@@ -47,7 +47,7 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0009-0008-5469-4972
 
 interests:
-  - Computer Vision
+  - 3D Computer Vision: 3D/4D Reconstruction, NeRF, Gaussian Splatting, Visual Localization
   - Artificial Intelligence
   - Robotics
 
