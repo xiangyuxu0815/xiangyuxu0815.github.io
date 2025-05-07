@@ -44,7 +44,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=Pt4q_QkAAAAJ&hl
   - icon: academicons/orcid
-    url: https://orcid.org/my-orcid?orcid=0009-0008-5469-4972
+    url: https://orcid.org/0009-0008-5469-4972
 
 interests:
   - 3D Computer Vision(3D/4D Reconstruction, NeRF, Gaussian Splatting, Visual Localization)
